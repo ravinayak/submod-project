@@ -1,1 +1,1 @@
-This is a new file - file-submod-6.txt
+Update 6 in stable : This is a new file - file-submod-6.txt
