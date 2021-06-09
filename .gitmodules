@@ -1,0 +1,3 @@
+[submodule "submodule-inside-submod-project"]
+	path = submodule-inside-submod-project
+	url = https://github.com/ravinayak/submodule-inside-submod-project.git
